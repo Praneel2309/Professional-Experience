@@ -58,6 +58,3 @@ The objective was to explore intelligent techniques capable of identifying malic
 This internship strengthened my interest in applying Artificial Intelligence and Data Science techniques to real-world security challenges.
 
 It also deepened my appreciation for research as a process of transforming complex problems into systematic, data-driven solutions.
-
-![Project Diagram](images/architecture.png)
--->
