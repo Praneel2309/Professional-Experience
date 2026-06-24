@@ -37,3 +37,13 @@ I believe that research and engineering complement each other — research inspi
 - Intelligent threat detection
 - Applied machine learning
 - Research-driven engineering
+
+--
+
+## 📂 Experiences
+
+- 🛰️ [ISRO Research Internship](./ISRO)
+- 🛡️ [IIT Gandhinagar Internship](./IITGN)
+- 📊 [Indian Institute of Public Health Gandhinagar Internship](./IIPHG)
+- 🌱 [ESI Sughad Research Internship](./ESI-Sughad)
+  
