@@ -10,10 +10,10 @@ I believe that research and engineering complement each other — research inspi
 
 | Period | Organization | Role |
 |--------|---------------|------|
-| May 2026 – Jul 2026 | ISRO | Research Intern |
 | Jun 2025 – Oct 2025 | IIT Gandhinagar | Cybersecurity & Threat Intelligence Intern |
 | May 2025 – Jun 2025 | Indian Institute of Public Health Gandhinagar | Data Science Intern |
 | Dec 2025 | ESI Sughad | Research Intern |
+| May 2026 – Jul 2026 | ISRO | Research Intern |
 
 --
 
