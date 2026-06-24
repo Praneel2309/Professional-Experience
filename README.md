@@ -4,7 +4,7 @@ A collection of my internships and research experiences spanning Artificial Inte
 
 I believe that research and engineering complement each other — research inspires ideas, and engineering turns them into impactful systems.
 
---
+---
 
 ## Timeline
 
@@ -15,7 +15,7 @@ I believe that research and engineering complement each other — research inspi
 | Dec 2025 | ESI Sughad | Research Intern |
 | May 2026 – Jul 2026 | ISRO | Research Intern |
 
---
+---
 
 ## Skills Developed
 
@@ -28,7 +28,7 @@ I believe that research and engineering complement each other — research inspi
 - Scientific Writing
 - Problem Solving
 
---
+---
 
 ## Common Research Themes
 
@@ -38,7 +38,7 @@ I believe that research and engineering complement each other — research inspi
 - Applied machine learning
 - Research-driven engineering
 
---
+---
 
 ## 📂 Experiences
 
